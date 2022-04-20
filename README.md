@@ -5,7 +5,7 @@ Use our SSL Checker to help you quickly diagnose problems with your SSL certific
 # Installation 
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Setup
